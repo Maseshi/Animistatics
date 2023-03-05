@@ -1,4 +1,4 @@
-![Header](https://github.com/Maseshi/Animistatics/resolve/main/assets/header.png)
+![Header](https://raw.githubusercontent.com/Maseshi/Animistatics/main/assets/header.png)
 
 # Animistatics
 
@@ -45,19 +45,19 @@ image.save("girl.png")
 Below are some examples of images generated using this model:
 
 **Anime Girl:**
-![Anime Girl](https://github.com/Maseshi/Animistatics/resolve/main/assets/girl.png)
+![Anime Girl](https://raw.githubusercontent.com/Maseshi/Animistatics/main/assets/girl.png)
 ```
 girl, cafe, plants, coffee, lighting, steam, blue eyes, brown hair
 Steps: 50, Sampler: DDIM, CFG scale: 12
 ```
 **Anime Boy:**
-![Anime Boy](https://github.com/Maseshi/Animistatics/resolve/main/assets/boy.png)
+![Anime Boy](https://raw.githubusercontent.com/Maseshi/Animistatics/main/assets/boy.png)
 ```
 boy, blonde hair, blue eyes, colorful, cumulonimbus clouds, lighting, medium hair, plants, city, hoodie, cool
 Steps: 50, Sampler: DDIM, CFG scale: 12
 ```
 **City:**
-![City](https://github.com/Maseshi/Animistatics/resolve/main/assets/city.png)
+![City](https://raw.githubusercontent.com/Maseshi/Animistatics/main/assets/city.png)
 ```
 cityscape, concept art, sun shining through clouds, crepuscular rays, trending on art station, 8k
 Steps: 50, Sampler: DDIM, CFG scale: 12
