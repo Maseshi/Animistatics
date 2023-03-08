@@ -16,7 +16,7 @@ We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Animis
 
 We support a [Google Colab](https://github.com/gradio-app/gradio) to run Animistatics:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qf7KGx7wCQ6XCs4ai_2riq68ip7mZw_t?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maseshi/Animistatics/blob/main/animistatics.ipynb)
 
 ## 🧨 Diffusers
 
